@@ -1,0 +1,12 @@
+I wanted to dive into real-time web tracking, so I built a Real-Time Gesture & Expression Meme Generator app!
+🔗 Check it out here (Live for the next 29 days on a free tier): https://lnkd.in/dsV-CuX9
+
+How it works:
+                Using Google Media Pipe, the app analyzes your webcam stream in real-time to read complex facial structures and hand shapes. Instead of using standard coordinate tracking, it evaluates Finger State Vectors to determine if fingers are open or closed.
+It maps your expressions and movements directly to pop-culture templates side-by-side.
+
+The Experience:
+                 As a beginner, this was an incredible learning experience. I built this with the help of AI pair-programming, which helped me figure out complex canvas math (like un-mirroring text transformations) and handling real-time data loops.
+It’s definitely not flawless or 100% perfect, but it was a massive playground for learning how to bridge frontend UI with complex computer vision libraries.
+
+#ComputerVision #WebDevelopment #MediaPipe #JavaScript #AI #BuildInPublic #TechBeginner #Replit
